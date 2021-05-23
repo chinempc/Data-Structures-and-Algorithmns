@@ -6,6 +6,7 @@ Friendly competition 😈🕹️
 # Gameplan
 * A techical coding interview question will be pushed to the "Challenge Questions" directory daily
 * Each Participant will push their answer to the challenge question in their specific directory. 
+*	Git Tutorial -> https://www.youtube.com/watch?v=DVRQoVRzMIY 
 * There are 15 Challenge questions in total.
 * Answers will be pushed under the answers directory at 12AM the day after the question was pushed. 
 
