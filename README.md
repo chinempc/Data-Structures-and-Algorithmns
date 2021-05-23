@@ -14,8 +14,8 @@ Friendly competition 😈🕹️
 	Trust Wallet Tutorial -> https://www.youtube.com/watch?v=BdWCVKINwKc
 	Coinbase Refferal (We both get $10 in BTC when we buy or sell $100 in crypto) -> https://www.coinbase.com/join/chinem_a
 * Participants have until 11:59 the day of the challenge question was pushed to push their answers. 
-* Challenge answers format: LastNameQuestionNumber 
-	Example: ChinemereQ1
+* Challenge answers format: UserNameQuestionNumber 
+	Example: ChinempcQ1
 * All code must be written in either Javascript or C++.
 * NO CHEATING WILL BE TOLLERATED
 
