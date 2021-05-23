@@ -21,5 +21,6 @@ Friendly competition 😈🕹️
 * NO CHEATING WILL BE TOLLERATED
 
 # REWARD
-* Whoever gets the most question correct gets a $50 prize paid in Ethereum.
-* In the event of a tie, no matter how many, each winner will recieve $50 paid in Ethereum.
+* Whoever gets the most question correct gets a $50 prize paid in Ethereum 💰.
+* In the event of a tie, no matter how many, each winner will recieve $50 paid in Ethereum 💰.
+* P.S. Because I have access to the questions and the answers, I am not allowed to win 😉.
