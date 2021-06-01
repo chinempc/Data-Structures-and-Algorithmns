@@ -17,7 +17,7 @@ Friendly competition 😈🕹️
 * Participants have until 11:59 the day of the challenge question was pushed to push their answers. 
 * Challenge answers format: UserNameQuestionNumber 
 * Example: ChinempcQ1
-* All code must be written in either Javascript or C++.
+* All code must be written in either Javascript or C++(If you are participating for sport, you may use another language. This means you receive no reward).
 * NO CHEATING WILL BE TOLLERATED
 
 # REWARD
