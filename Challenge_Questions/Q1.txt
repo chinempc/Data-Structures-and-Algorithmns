@@ -1,7 +1,7 @@
 Day 1
 
 RULES:
-     * Program must be written in C++ or Javascript.
+     * Program must be written in C#, C++, or Javascript.
      * Each participant has until 11:59 the same day to push their code to their appropiate directory. 
      * CHECK FOR MEMORY LEAKS IN YOUR PROGRAM. DELETE YOUR POINTERS
 
