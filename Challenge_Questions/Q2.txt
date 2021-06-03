@@ -1,4 +1,4 @@
-Day 1
+Day 2
 
 RULES:
      * Program must be written in C#, C++, or Javascript.
