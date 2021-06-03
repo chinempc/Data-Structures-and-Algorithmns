@@ -12,8 +12,7 @@ int main() {
 	int n = 0;
 	cout << "What fib number would you like?\nFib: ";
 	cin >> n;
-	cout << endl << "Fib " << n << " is: " << fib(4) << endl;
-	cout << "The 5th fib is: " << fib(5) << endl;
+	cout << endl << "Fib " << n << " is: " << fib(n) << endl;
 
 	return 0;
 }
