@@ -11,6 +11,8 @@ public class cmanemanQ1Java
         {
             sum = n1 + n2;
             
+            System.out.println("Data: "+ n1 + " + " + n2 + " = " +  sum + "\n");
+            
             n1 = n2;
             n2 = sum;
         }
@@ -20,7 +22,7 @@ public class cmanemanQ1Java
     
     public static void main(String[] args)
     {
-        int num1 = 0, num2 = 0, n = 0;
+        int num1 = 0, num2 = 1, n = 0;
         
         System.out.println("This program will invoke the Fibonacci sequence in Java\n");
         System.out.print("How many times would like the program to perform the sequence: ");
@@ -28,7 +30,7 @@ public class cmanemanQ1Java
         
         n = s1.nextInt();
         
-        System.out.print("You chose: " + n + " times");
+        System.out.print("You chose: " + n + " times\n\n");
         
         fib(num1, num2, n);
     }
