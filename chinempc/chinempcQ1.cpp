@@ -9,7 +9,10 @@ int fib(int n) {
 }
 
 int main() {
-	cout << "The 4th fib is: " << fib(4) << endl;
+	int n = 0;
+	cout << "What fib number would you like?\nFib: ";
+	cin >> n;
+	cout << endl << "Fib " << n << " is: " << fib(4) << endl;
 	cout << "The 5th fib is: " << fib(5) << endl;
 
 	return 0;
