@@ -1,0 +1,18 @@
+Day 1
+
+RULES:
+     * Program must be written in C#, C++, or Javascript.
+     * Each participant has until 11:59 the same day to push their code to their appropiate directory. 
+     * CHECK FOR MEMORY LEAKS IN YOUR PROGRAM. DELETE YOUR POINTERS
+
+CHALLENGE QUESTION: 
+Write a working function "fib(n)" that takes an integer as an argument. The function must return the n-th number of the fibonacci sequence.
+This function has use use recurrsion and dynamic programming. The time complexity should be linear.
+
+EXAMPLE:
+	function() -> return
+	fib(2) -> 1
+	fib(3) -> 2
+	fib(11) -> 89
+
+THERE IS NO TIME COMPLEXITY REQUIREMENT FOR THIS QUESTION.
