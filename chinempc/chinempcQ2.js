@@ -5,3 +5,7 @@ const fib = (int n, memo = {}) {
 		return 1;
 	memo[n] = fib(n-1) + fib(n-2);
 }
+
+console.log(fib(2));
+console.log(fib(4));
+console.log(fib(24));
