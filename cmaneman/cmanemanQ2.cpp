@@ -7,8 +7,8 @@ void DynFib(int[], int, int, int);
 
 int main()
 {
-	const int ARRSIZE = 12;
-	int numArr[ARRSIZE] = {0, 1, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL};
+	const int ARRSIZE = 13;
+	int numArr[ARRSIZE] = {0, 1, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL};
 	int i = 1;
 	int sum = 0;
 
